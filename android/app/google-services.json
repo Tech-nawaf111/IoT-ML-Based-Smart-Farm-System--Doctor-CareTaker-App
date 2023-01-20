@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "507840369415",
+    "project_id": "fyp-nawaf-mujeeb",
+    "storage_bucket": "fyp-nawaf-mujeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507840369415:android:9ed900175303a18179eba2",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507840369415-8utg39c7djsp44plocufqf7d2imf3krm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp",
+            "certificate_hash": "6b16c15e82eb5be813750349cdfa99cd6a102cf0"
+          }
+        },
+        {
+          "client_id": "507840369415-6qhh5lp0aqgfgcm0usoer1fhikvuvo0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ZPO8iKzzhFIS2ZRPyFQ8uNxLMyGuMTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507840369415-6qhh5lp0aqgfgcm0usoer1fhikvuvo0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
